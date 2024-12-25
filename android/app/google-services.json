@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "73455794355",
+    "project_id": "hire-host-app",
+    "storage_bucket": "hire-host-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:73455794355:android:9b09ec83906a4e35fad8c6",
+        "android_client_info": {
+          "package_name": "com.example.untitled"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0g8C1h2IFANua0J5cultEnTqOFa99U4Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

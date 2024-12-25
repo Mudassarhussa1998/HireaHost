@@ -1,9 +1,18 @@
-# HireaHost
-Made in flutter . A concept based on linkedIn . 
+
+
+
+The Project is uploaded in Master Branch
+
+
 MOBILE COMPUTING
 PROJECT  REPORT
 Application Name: HIRE HOST
 
+GROUP MEMBERS:
+Mudassar Hussain (233000) 
+Arslan Malik (232495)
+Maaz Zulfiqar (232408)
+Arsal Abdul Rehman (232462)
 Introduction:
 The Hire Host app is a dynamic and comprehensive platform designed to simplify and enhance the hiring and job-seeking process. Whether you're a professional looking for new job opportunities or a company searching for the right talent, Hire Host provides an efficient and seamless experience for both employees and employers. The app’s design focuses on ease of use, allowing users to quickly navigate through various features that make recruitment and job applications more accessible and streamlined.
 Detailed Overview:
@@ -27,7 +36,16 @@ In-App Messaging: The app includes an in-app messaging feature that allows emplo
 Multi-Device Support: Hire Host is designed to be responsive across different devices, providing a smooth experience on smartphones, tablets, and web platforms. Users can stay connected to the platform no matter where they are.
 
 
- UI/UX Design , Figma Design & Firebase Integration
+
+
+
+
+
+
+
+
+WORK CONTRIBUTION OF GROUP MEMBERS
+Maaz Zulfiqar(232408) UI/UX Design , Figma Design & Firebase Integration
 Thepurpose of my contributions to the Hire Host app was to design and implement the Welcome Screen and Sign-In Page, ensuring seamless user interaction through effective UI/UX design and integration with Firebase Authentication. Additionally, I collaborated with team members to maintain a consistent and interactive design across the entire app, focusing on enhancing the app's overall user experience.
 Pages Developed
 Welcome Screen Purpose: The Welcome Screen serves as the first point of contact for users, creating a lasting first impression and guiding them to the next steps of the app (Sign In and Sign Up).
@@ -62,7 +80,11 @@ Implemented a secure and smooth login process with Firebase Authentication, impr
 Contributed to the app’s overall visual identity and user interface consistency, helping the team create an engaging, intuitive, and professional design for the Hire Host app.
 
 
-Development of Search, Employee Information, and Company Information Pages
+
+
+
+
+Arslan’s Part: Development of Search, Employee Information, and Company Information Pages
 
 Objective
 The purpose of these pages is to facilitate seamless access to company and employee information within the application. These pages were designed with a focus on user experience, modularity, and efficient data handling, integrating Firebase Firestore for backend operations.
@@ -147,7 +169,26 @@ Solution: Employed flexible layouts using SizedBox, Flexible, and Expanded.
 
 
 
- Sign-up page, Firebase integration, chatbot AI
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ARSAL’s Part: Sign-up page, Firebase integration, chatbot AI
 
 
 My Key Responsibilities in the Hire Host App:-
@@ -188,9 +229,39 @@ Key features implemented:
 • Helped design interactive elements such as buttons, icons, and animations to ensure a consistent and engaging user experience across the entire app.
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mudassar’s Part: 
 Homepage , Drawer , Dark mode , Make cv Page , Hire a Host , Help&Support 
 Api Used
 Open-cage Api for selecting location
+
+
+
+
+
+
+
 
 
 
